@@ -1,7 +1,6 @@
 # Deep Learning Model for mRNA Degradation Prediction
 
 [![python](https://img.shields.io/badge/python-v3.9.17-green)](https://www.python.org/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Participated-blue)](https://www.kaggle.com/)
 
 ![Header Image](docs/image.png)
 *Image Source: [Kaggle Competition](https://www.kaggle.com/competitions/stanford-covid-vaccine/overview)*
